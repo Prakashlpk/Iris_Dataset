@@ -1,1 +1,3 @@
-# Iris_Dataset
+This dataset has five columns: sepal length, sepal width, petal length, petal width, and species. The sepal is the outer part of the flower that protects the petals before blooming. Petal length is one of the most distinguishing features between different species.
+The first column refers to the length of the sepal in centimeters (cm), the second column represents the width of the sepal, the third column indicates the length of the petal, and the fourth column corresponds to the width of the petal. The species column categorizes the flowers into three different species: Setosa, Versicolor, and Virginica.
+In this dataset, the species type depends on the length and width of the sepals and petals. Hence, species is the target column, making this a supervised dataset. Since the target variable consists of three distinct categories, it falls under categorical supervised learning, which is evident from the species column.
